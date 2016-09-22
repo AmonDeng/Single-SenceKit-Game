@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4004F18BB82283A423A0AC8CD5299CE36710E052",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4004F18BB82283A423A0AC8CD5299CE36710E052" : 0,
+    "DBE6B452AE485D4586718667EF96067067CD4587" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4AAE57C8-DFF6-47F8-889D-92F8516A0051",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4004F18BB82283A423A0AC8CD5299CE36710E052" : "Metal\/",
+    "DBE6B452AE485D4586718667EF96067067CD4587" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hello sceneKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "hello sceneKit\/hello sceneKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AmonDeng\/Single-SenceKit-Game.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4004F18BB82283A423A0AC8CD5299CE36710E052"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AmonDeng\/OpenGL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBE6B452AE485D4586718667EF96067067CD4587"
+    }
+  ]
+}
